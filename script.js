@@ -23,5 +23,4 @@ buttons.map( button => {
             default:
                 display.innerText += e.target.innerText;
         }
-    });
 });
