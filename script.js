@@ -24,3 +24,4 @@ buttons.map( button => {
                 display.innerText += e.target.innerText;
         }
 });
+}
